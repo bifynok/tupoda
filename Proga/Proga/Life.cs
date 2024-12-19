@@ -1,6 +1,6 @@
 ﻿namespace Proga
 {
-    class Life
+    public class Life
     {
         static void Main()
         {
