@@ -4,7 +4,7 @@ namespace Test
 {
     class Test
     {
-        static int Tester()
+        static int Main()
         {
             if (!Case1()) return 1;
             if (!Case2()) return 1;
